@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=fffffa"/>
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=fffffa"/>
+  <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=fffffa"/>
 <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=000000"/>
 </div>
@@ -31,6 +32,14 @@
 </div>
   <div>
 <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=fffffa"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=fffffa"/>
+</div>
+<div>
+    <img src="https://img.shields.io/badge/unity-fafafa.svg?style=for-the-badge&logo=unity&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/raspberrypi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=fffffa"/>
 </div>
 
 <div>
@@ -48,12 +57,24 @@
 <div>
 
   ### 🍎 PROJECT
-  
+
+  - Job Agent
+     - AI 기반 이력서 매칭 및 커버레터 생성기 (AI-Powered Resume Matching & Cover Letter Generator)
+   
+  - Beauty Finder
+     - AI 기반 한국인 피부 분석 어플 (AI based Skin analysis App)
+
+
 </div>
 
+<div>
 
+  ### 📇 qualifications
 
-
+  - ADsP
+  - YBM COS PRO 1급 (python)
+  
+</div>
 
 
 
